@@ -1,0 +1,30 @@
+C:\Users\Василий\source\repos\проект\проект начало\bin\Debug\проект начало.exe.config
+C:\Users\Василий\source\repos\проект\проект начало\bin\Debug\проект начало.exe
+C:\Users\Василий\source\repos\проект\проект начало\bin\Debug\проект начало.pdb
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект начало.csprojAssemblyReference.cache
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект_начало.Form1.resources
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект_начало.Properties.Resources.resources
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект начало.csproj.GenerateResource.cache
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект начало.csproj.CoreCompileInputs.cache
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект начало.exe
+C:\Users\Василий\source\repos\проект\проект начало\obj\Debug\проект начало.pdb
+G:\prog\проект\проект начало\obj\Debug\проект начало.csprojAssemblyReference.cache
+G:\prog\проект\проект начало\obj\Debug\проект_начало.Form1.resources
+G:\prog\проект\проект начало\obj\Debug\проект_начало.Properties.Resources.resources
+G:\prog\проект\проект начало\obj\Debug\проект начало.csproj.GenerateResource.cache
+G:\prog\проект\проект начало\obj\Debug\проект начало.csproj.CoreCompileInputs.cache
+G:\prog\проект\проект начало\obj\Debug\проект начало.exe
+G:\prog\проект\проект начало\obj\Debug\проект начало.pdb
+G:\prog\проект\проект начало\bin\Debug\проект начало.exe.config
+G:\prog\проект\проект начало\bin\Debug\проект начало.exe
+G:\prog\проект\проект начало\bin\Debug\проект начало.pdb
+E:\prog\проект\проект начало\bin\Debug\проект начало.exe.config
+E:\prog\проект\проект начало\bin\Debug\проект начало.exe
+E:\prog\проект\проект начало\bin\Debug\проект начало.pdb
+E:\prog\проект\проект начало\obj\Debug\проект начало.csprojAssemblyReference.cache
+E:\prog\проект\проект начало\obj\Debug\проект_начало.Form1.resources
+E:\prog\проект\проект начало\obj\Debug\проект_начало.Properties.Resources.resources
+E:\prog\проект\проект начало\obj\Debug\проект начало.csproj.GenerateResource.cache
+E:\prog\проект\проект начало\obj\Debug\проект начало.csproj.CoreCompileInputs.cache
+E:\prog\проект\проект начало\obj\Debug\проект начало.exe
+E:\prog\проект\проект начало\obj\Debug\проект начало.pdb
