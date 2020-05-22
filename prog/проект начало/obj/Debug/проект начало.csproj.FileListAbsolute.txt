@@ -28,3 +28,13 @@ E:\prog\проект\проект начало\obj\Debug\проект начал
 E:\prog\проект\проект начало\obj\Debug\проект начало.csproj.CoreCompileInputs.cache
 E:\prog\проект\проект начало\obj\Debug\проект начало.exe
 E:\prog\проект\проект начало\obj\Debug\проект начало.pdb
+G:\prog\prog\проект начало\bin\Debug\проект начало.exe.config
+G:\prog\prog\проект начало\bin\Debug\проект начало.exe
+G:\prog\prog\проект начало\bin\Debug\проект начало.pdb
+G:\prog\prog\проект начало\obj\Debug\проект начало.csprojAssemblyReference.cache
+G:\prog\prog\проект начало\obj\Debug\проект_начало.Form1.resources
+G:\prog\prog\проект начало\obj\Debug\проект_начало.Properties.Resources.resources
+G:\prog\prog\проект начало\obj\Debug\проект начало.csproj.GenerateResource.cache
+G:\prog\prog\проект начало\obj\Debug\проект начало.csproj.CoreCompileInputs.cache
+G:\prog\prog\проект начало\obj\Debug\проект начало.exe
+G:\prog\prog\проект начало\obj\Debug\проект начало.pdb

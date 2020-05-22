@@ -798,7 +798,7 @@ namespace проект_начало
                 
                     
                 
-                if (comboBox4.SelectedIndex == 2&& list[i].isDrag)
+                if ( list[i].isDrag)
                 {
                     list[i].delX = e.X - SetX0;
                     list[i].delY = SetY0 - e.Y;
